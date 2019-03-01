@@ -1,0 +1,9 @@
+{
+  "name": "lambda-starter-node",
+  "version": "1.0.0",
+  "description": "AWS Lambda starter template for nodejs",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Stefanos Chrs <root@stefanoschrs.com>",
+  "license": "MIT"
+}
